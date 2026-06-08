@@ -1,0 +1,6 @@
+In 2D array:
+  array length represents ->no of rows
+  No need of give column size initially
+  need column size when we access array values
+  use deepToString to print the entire array
+  if we use Arrays.tostring it prints memory address of each row because it stores ref of that values
